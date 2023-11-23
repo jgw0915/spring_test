@@ -23,7 +23,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.yaml</groupID>
+			<groupId>org.yaml</groupId>
 			<artifactId>snakeyyaml</artifactId>
 			<version>2.0</version>
 		</dependency>
